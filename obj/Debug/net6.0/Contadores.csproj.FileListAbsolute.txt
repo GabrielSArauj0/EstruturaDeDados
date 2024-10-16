@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\bin\Debug\net6.0\Contadores.exe
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\bin\Debug\net6.0\Contadores.deps.json
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\bin\Debug\net6.0\Contadores.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\bin\Debug\net6.0\Contadores.dll
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\bin\Debug\net6.0\Contadores.pdb
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.dll
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\refint\Contadores.dll
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.pdb
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\Contadores.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Rider\Estrutura\Contadores\obj\Debug\net6.0\ref\Contadores.dll
